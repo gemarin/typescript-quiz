@@ -1,6 +1,4 @@
-import { stringify } from 'querystring';
 import styled, { keyframes } from 'styled-components';
-import { isAnyArrayBuffer } from 'util/types';
 
 const BounceAnimation = keyframes`
   0% { margin-bottom: 0; }
